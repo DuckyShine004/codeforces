@@ -1,0 +1,1 @@
+/home/duckyshine04/Documents/work/projects/cpp-projects/codeforces-template/template.cpp
